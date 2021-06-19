@@ -5,3 +5,4 @@
 - 📫 How to reach me: thorugh my mail id code.poltergeists25@gmail.com
 - fav language java
 - linkedin profile https://www.linkedin.com/in/jaideep-singh-26a226208/
+- Aspiring android developer
