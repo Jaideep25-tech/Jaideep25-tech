@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaideep25-tech
+- 👋 Hi, I’m @Jaideep25
 - 👀 I’m interested in coding,learning new things
 - i seriosly want to learn and do things with which i can help myself and others as well to maker lives easy
 - 🌱 I’m currently learning c++ and python
