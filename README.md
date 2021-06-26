@@ -6,7 +6,7 @@
 - 📫 How to reach me: thorugh my mail id code.poltergeists25@gmail.com
 - fav language java
 - linkedin profile https://www.linkedin.com/in/jaideep-singh-26a226208/
-- Aspiring android developer
+- Aspiring android develo
 - Jaideep loves to break boundaries and He always comes with a 'why can't I' attitude with a strong sense of responsibility looking forward to working with a team that enjoys challenging projects and has an innovative outlook.
 
 - He is just a programmer on an average day, but He knows his skills can add value to lives. He also likes converting ideas and thoughts into visual pieces. He takes pride in being a team player.
