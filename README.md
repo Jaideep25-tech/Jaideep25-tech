@@ -17,7 +17,7 @@
 
 - He is also open to tips on interview preparation and He needs productivity tips.
 
-- He is always open to new opportunities and would love to have a chat over soft dri
+- He is always open to new opportunities and would love to have a chat over soft drinks
 
 - Feel free to DM here or connect on Instagram/Twitter - @_jai_deep_25
 - Mail id - jaideep320@gmail.com
