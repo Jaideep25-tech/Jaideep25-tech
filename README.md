@@ -6,6 +6,6 @@
 - like coding in 
 - ![image](https://user-images.githubusercontent.com/79747022/126527997-10c10841-624c-41f5-b306-b6430de2963b.png)
 - ![image](https://user-images.githubusercontent.com/79747022/126528063-d799c68b-b13d-4007-a02d-b15c5a07b527.png)
-
+- https://www.linkedin.com/in/jaideep-singh-26a226208/
 - Feel free to DM here or connect on Instagram/Twitter - @_jai_deep_25
 - Mail id - jaideep320@gmail.com
