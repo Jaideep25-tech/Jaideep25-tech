@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Jaideep25-tech
+- 👋 Hi, I’m @Jaideep Singh
+- https://photos.google.com/u/1/photo/AF1QipN00LNK6sOrLk4EA4R8Z4ICGor3349IP-R7nOUp
 - 👀 I’m interested in coding,learning new things
 - i seriosly want to learn and do things with which i can help myself and others as well to maker lives easy
 - 🌱 I’m currently learning android development  
