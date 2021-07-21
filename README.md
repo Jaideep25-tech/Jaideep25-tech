@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Jaideep25-tech
 - 👀 I’m interested in coding,learning new things
-- i seriosly want to learn and do things with which i can hel-p myself and others as well to maker lives easy
+- i seriosly want to learn and do things with which i can help myself and others as well to maker lives easy
 - 🌱 I’m currently learning android development  
 - ![image](https://user-images.githubusercontent.com/79747022/126527777-eba0f073-6a0d-4122-b92f-fd0e763538c9.png)
-- 📫 How to reach me: thorugh my mail id code.poltergeists25@gmail.com
 - like coding in 
 - ![image](https://user-images.githubusercontent.com/79747022/126527997-10c10841-624c-41f5-b306-b6430de2963b.png)
 - ![image](https://user-images.githubusercontent.com/79747022/126528063-d799c68b-b13d-4007-a02d-b15c5a07b527.png)
