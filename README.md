@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaideep Singh
-- https://photos.google.com/u/1/photo/AF1QipN00LNK6sOrLk4EA4R8Z4ICGor3349IP-R7nOUp
+- ![image](https://user-images.githubusercontent.com/79747022/126528493-f382e8fc-474e-42dc-ba4f-8c058a5f3eec.png)
 - 👀 I’m interested in coding,learning new things
 - i seriosly want to learn and do things with which i can help myself and others as well to maker lives easy
 - 🌱 I’m currently learning android development  
