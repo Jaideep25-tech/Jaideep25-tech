@@ -54,8 +54,3 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
  ##  Contact Me :speech_balloon:
 
  [![Linkedin Badge](https://img.shields.io/badge/-@Jaideep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-joshi-177873192/)](https://www.linkedin.com/in/jaideep-singh-26a226208/) [![Gmail Badge](https://img.shields.io/badge/-jaideep320@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaideep320@gmail.com)](mailto:) [![Instagram Badge](https://img.shields.io/badge/-@Jaideep-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https:https://www.instagram.com/jaideep.java/)](https://www.instagram.com/jaideep.java/) [![Instagram Badge](https://img.shields.io/badge/-@My_coding_id-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https:https://www.instagram.com/code.poltergeists25/?utm_medium=copy_link)](https://www.instagram.com/code.poltergeists25/?utm_medium=copy_link) <a href="https://jaideep25-tech.github.io/protfoliosite/"><img alt="Website" src="https://img.shields.io/badge/Jaideep's_Portfolio.github.io-red?style=flat-square&logo=google-chrome"></a>
- 
- <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
