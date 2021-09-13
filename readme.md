@@ -1,16 +1,61 @@
-- 👋 Hi, I’m @Jaideep25-tech
-- 👀 I’m interested in coding,learning new things
-- i seriosly want to learn and do things with which i can help myself and others as well to maker lives easy
-- 🌱 I’m currently learning Android development
-- 💞️ I’m looking to work with someone also interested in learnig new things
-- 📫 How to reach me: thorugh my mail id code.poltergeists25@gmail.com
-- fav language java
-- linkedin profile https://www.linkedin.com/in/jaideep-singh-26a226208/
-- Jaideep loves to break boundaries and He always comes with a 'why can't I' attitude with a strong sense of responsibility looking forward to working with a team that enjoys challenging projects and has an innovative outlook.
-- He is just a programmer on an average day, but He knows his skills can add value to lives. He also likes converting ideas and thoughts into visual pieces. He takes pride in being a team player.
-- Jaideep's major skills include Data Structures, problem-solving, and java programming and his career goal is to use his problem-solving skill set to solve a real-world problem.
-- He is open to mentors, guides, potential co-founders to upskill her network and add value to his career. He is also looking forward to collaborating on projects and learning new skills together.
-- He is also open to tips on interview preparation and He needs productivity tips.
-- He is always open to new opportunities and would love to have a chat over soft dri
-- Feel free to DM here or connect on Instagram/Twitter - @_jai_deep_25
-- Mail id - jaideep320@gmail.com
+# <a href="https://www.linkedin.com/in/jaideep-singh-26a226208/"> Hello, Folks! I'm Jaideep Singh</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<a href="https://www.linkedin.com/in/jaideep-singh-26a226208/">
+  <img align="left" alt="Jaideep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Jaideep25-tech/">
+  <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+</a>
+<a href="https://www.instagram.com/jaideep.java/">
+  <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br/>
+<br/>
+
+Aspiring Android Developer | Android development Intern @Sparks Foundation | GsWoC'2021 Java DSA contributor|Java development intern @Ten:Enterprenurshuip Network| Android Development | Competitive Programming <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
+## About :sunglasses:
+B.tech 2nd year in field of Computer Science with Specialization in Cyber Securtiy and Digital Forensics At VEllore Institute Of Technology. Passionate about Software Development, Android development,Cyber security and open source. Also, have some experience in Android Development. Also have a great keen interest in DSA. also 5 star Java,python and 30 day  coder at hackerrank 
+
+
+
+# Technology and Tools 🔧
+## Programming Languages 🔥
+<p>
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  
+## Frameworks 🖼️
+<p>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+ </p>
+ 
+ ## Databases
+ <p>
+ <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+ </p>
+<a href="https://github.com/Jaideep25-tech">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaideep25-tech&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideep25-tech&theme=buefy&layout=compact" />
+</a>
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech)
+
+<br/>
+
+
+
+
+
+
+ ##  Contact Me :speech_balloon:
+
+ [![Linkedin Badge](https://img.shields.io/badge/-@Jaideep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-joshi-177873192/)](https://www.linkedin.com/in/jaideep-singh-26a226208/) [![Gmail Badge](https://img.shields.io/badge/-jaideep320@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaideep320@gmail.com)](mailto:) [![Instagram Badge](https://img.shields.io/badge/-@Jaideep-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https:https://www.instagram.com/jaideep.java/)](https://www.instagram.com/jaideep.java/) [![Instagram Badge](https://img.shields.io/badge/-@My_coding_id-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https:https://www.instagram.com/code.poltergeists25/?utm_medium=copy_link)](https://www.instagram.com/code.poltergeists25/?utm_medium=copy_link) <a href="https://jaideep25-tech.github.io/protfoliosite/"><img alt="Website" src="https://img.shields.io/badge/Jaideep's_Portfolio.github.io-red?style=flat-square&logo=google-chrome"></a>
+ 
+ <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
