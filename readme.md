@@ -1,22 +1,17 @@
 # <a href="https://www.linkedin.com/in/jaideep-singh-26a226208/"> Hello, Folks! I'm Jaideep Singh</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<a href="https://www.linkedin.com/in/jaideep-singh-26a226208/">
-  <img align="left" alt="Jaideep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Jaideep25-tech/">
-  <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-</a>
-<a href="https://www.instagram.com/jaideep.java/">
-  <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_jai_deep_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jaideep25-tech" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaideep-singh-26a226208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jaideep25-tech" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jaideep.java/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jaideep25-tech" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jaideep320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thepranaygupta" height="30" width="40" /></a>
 
 <br/>
 <br/>
-
-Aspiring Developer | Android development Intern @Sparks Foundation | GsWoC'2021 Java DSA contributor|Java development intern @Ten:Enterprenurshuip Network| Android Development | Competitive Programming <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+A PHILONOIST | Android development Intern @Sparks Foundation | GsWoC'2021 Java DSA contributor| Java development intern @Ten:Enterprenurshuip Network| Open source contributir | Competitive Programming <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 ## About :sunglasses:
-B.tech 2nd year in field of Computer Science with Specialization in Cyber Securtiy and Digital Forensics At VEllore Institute Of Technology. Passionate about Software Development, Android development,Cyber security and open source. Also, have some experience in Android Development. Also have a great keen interest in DSA. also 5 star Java,python and 30 day  coder at hackerrank 
+B.tech 2nd year in field of Computer Science with Specialization in Cyber Securtiy and Digital Forensics At VEllore Institute Of Technology. Passionate about Software Development, Android development,Cyber security and open source. Also, have some experience in Android Development. Also have a great keen interest in DSA. 5 star Java,python and 30 day  coder at hackerrank 
 
 
 
