@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-Aspiring Android Developer | Android development Intern @Sparks Foundation | GsWoC'2021 Java DSA contributor|Java development intern @Ten:Enterprenurshuip Network| Android Development | Competitive Programming <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+Aspiring Developer | Android development Intern @Sparks Foundation | GsWoC'2021 Java DSA contributor|Java development intern @Ten:Enterprenurshuip Network| Android Development | Competitive Programming <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 ## About :sunglasses:
 B.tech 2nd year in field of Computer Science with Specialization in Cyber Securtiy and Digital Forensics At VEllore Institute Of Technology. Passionate about Software Development, Android development,Cyber security and open source. Also, have some experience in Android Development. Also have a great keen interest in DSA. also 5 star Java,python and 30 day  coder at hackerrank 
