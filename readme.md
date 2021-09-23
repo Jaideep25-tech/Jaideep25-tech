@@ -13,7 +13,10 @@ A PHILONOIST | Android development Intern @Sparks Foundation | GsWoC'2021 Java D
 ## About :sunglasses:
 B.tech 2nd year in field of Computer Science with Specialization in Cyber Securtiy and Digital Forensics At VEllore Institute Of Technology. Passionate about Software Development, Android development,Cyber security and open source. Also, have some experience in Android Development. Also have a great keen interest in DSA. 5 star Java,python and 30 day  coder at hackerrank 
 
+## 👨🏻‍💻 Coding Profiles
 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/jaideep320/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jaideep320)
 
 # Technology and Tools 🔧
 ## Programming Languages 🔥
@@ -21,6 +24,7 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
   
  ## IN LOVE WITH 💖: <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   
