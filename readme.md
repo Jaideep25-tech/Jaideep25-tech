@@ -42,16 +42,17 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 <br><br>
 
 <h2 align="center"> GitHub Overview </h2>
+
+[![Jaideep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Jaideep25-tech&theme=xcode)](https://github.com/Jaideep25-tech)
+
 <a href="https://github.com/Jaideep25-tech">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaideep25-tech&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideep25-tech&theme=buefy&layout=compact" />
 </a>
 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaideep25-tech)](https://github.com/Jaideep25-tech)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech)
 <br><br>
 
 <h2 align="center"> Let's connect! </h2>
