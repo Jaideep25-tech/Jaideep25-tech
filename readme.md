@@ -1,10 +1,10 @@
-![](https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/header_.png)
+![](https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/header_.png)
 
 <br>
 
 <h1 align="center"> <a href ="https://jaideep25-tech.github.io/protfoliosite/">Jaideep Singh</a></h1>
 <p align="center">Java Programmer | Web Developer | Data Science Enthusist | Android Developer | Open Source Enthusiast</p>
-<p align = "center"><img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/code.gif"/></p>
+<p align = "center"><img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/code.gif"/></p>
 
 <br/>
 A PHILONOIST | Android development Intern @Sparks Foundation | GsWoC'2021 Java DSA and Android contributor| Java development intern @Ten:Enterprenurshuip Network| Competitive Programmer <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
@@ -27,11 +27,11 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 <p align="center">
 <a href="https://www.java.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a><img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/python.png" alt="Python" width="48" height="48"/>&nbsp
-<img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/cpp.png" alt="C++" width="40" height="48"/>&nbsp
-<img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/html.svg" alt="HTML" width="48" height="48"/>&nbsp
-<img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/vscode.png" alt="vscode" width="48" height="48"/>&nbsp;
-<img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/js.png" alt="HTML" width="48" height="48"/>&nbsp</p>
+</a><img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/python.png" alt="Python" width="48" height="48"/>&nbsp
+<img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/cpp.png" alt="C++" width="40" height="48"/>&nbsp
+<img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/html.svg" alt="HTML" width="48" height="48"/>&nbsp
+<img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/vscode.png" alt="vscode" width="48" height="48"/>&nbsp;
+<img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/js.png" alt="HTML" width="48" height="48"/>&nbsp</p>
 <h1 align="center"> Frameworks 🖼️ </h2>
 <p align="center">
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /></p>
@@ -54,12 +54,12 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 
 <h2 align="center"> Let's connect! </h2>
 <p align="center">
-<a href="https://jaideep25-tech.github.io/protfoliosite/"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/website.png" /></a> &nbsp;&nbsp
-<a href="mailto:jaideep320@gmail.com"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/mail.png" /></a> &nbsp;&nbsp
-<a href="https://twitter.com/_jai_deep_25"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/twitter.png" /></a> &nbsp;&nbsp
-<a href="https://www.linkedin.com/in/jaideep-singh-26a226208/"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/linkedin.png" /></a>
+<a href="https://jaideep25-tech.github.io/protfoliosite/"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/website.png" /></a> &nbsp;&nbsp
+<a href="mailto:jaideep320@gmail.com"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/mail.png" /></a> &nbsp;&nbsp
+<a href="https://twitter.com/_jai_deep_25"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/twitter.png" /></a> &nbsp;&nbsp
+<a href="https://www.linkedin.com/in/jaideep-singh-26a226208/"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/linkedin.png"/></a>
 <a href="https://www.instagram.com/jaideep.java/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jaideep25-tech" height="30" width="40" /></a>
 <a href="https://www.instagram.com/code.poltergeists25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jaideep25-tech" height="30" width="40" /></a>
 </p>
 
-![](https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/footer.png)
+![](https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/banner.png)
