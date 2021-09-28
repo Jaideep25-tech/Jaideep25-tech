@@ -35,9 +35,6 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 <h1 align="center"> Frameworks 🖼️ </h2>
 <p align="center">
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /></p>
-<h1 align="center"> Databases </h2>
-<p align="center">
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></p>
 
 <br><br>
 
