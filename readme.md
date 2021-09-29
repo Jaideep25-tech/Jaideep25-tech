@@ -36,8 +36,6 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 <p align="center">
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /></p>
 
-<br><br>
-
 <h2 align="center"> GitHub Overview </h2>
 
 [![Jaideep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Jaideep25-tech&theme=xcode)](https://github.com/Jaideep25-tech)
@@ -50,7 +48,7 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaideep25-tech)](https://github.com/Jaideep25-tech)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech)
-<br><br>
+<br>
 
 <h2 align="center"> Let's connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 <p align="center">
@@ -61,7 +59,9 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 <a href="https://www.instagram.com/jaideep.java/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jaideep25-tech" height="30" width="40" /></a>
 <a href="https://www.instagram.com/code.poltergeists25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jaideep25-tech" height="30" width="40" /></a>
 </p>
+<br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jaideep25-tech" alt="Jaideep25-tech" /></a> </p>
+<br>
 
 ![](https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/footer_github.png)
