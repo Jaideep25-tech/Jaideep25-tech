@@ -52,7 +52,7 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech)
 <br><br>
 
-<h2 align="center"> Let's connect! </h2>
+<h2 align="center"> Let's connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 <p align="center">
 <a href="https://jaideep25-tech.github.io/protfoliosite/"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/website.png" /></a> &nbsp;&nbsp
 <a href="mailto:jaideep320@gmail.com"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/mail.png" /></a> &nbsp;&nbsp
@@ -61,5 +61,7 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 <a href="https://www.instagram.com/jaideep.java/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jaideep25-tech" height="30" width="40" /></a>
 <a href="https://www.instagram.com/code.poltergeists25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jaideep25-tech" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jaideep25-tech" alt="Jaideep25-tech" /></a> </p>
 
 ![](https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/footer_github.png)
