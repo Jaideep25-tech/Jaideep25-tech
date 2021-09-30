@@ -3,11 +3,13 @@
 <br>
 
 <h1 align="center"> <a href ="https://jaideep25-tech.github.io/protfoliosite/">Jaideep Singh</a></h1>
-<p align="center">Java Programmer | Web Developer | Data Science Enthusist | Android Developer | Open Source Enthusiast</p>
-<p align = "center"><img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/code.gif"/></p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ravie&color=F7F7F7&size=21&center=true&lines=Java+Coder;Android+Developer;Open+Source+Enthusiast;Competitive+Coder;Web+Developer)](https://git.io/typing-svg)
+
+<p align = "center"><img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/code.gif"/>
 
 <br/>
-A PHILONOIST | Android development Intern @Sparks Foundation | GsWoC'2021 Java DSA and Android contributor| Java development intern @Ten:Enterprenurshuip Network| Competitive Programmer <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+A PHILONOIST | Android development Intern @Sparks Foundation | GsWoC'2021 Java DSA and Android contributor| Java development intern @Ten:Enterprenurshuip Network| Competitive Programmer <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/></p>
 <br/>
 
 ## About :sunglasses:
@@ -15,9 +17,9 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 <h4 align="center">Show some &nbsp;❤️&nbsp; by starring  &nbsp;⭐&nbsp; some of the repositories!</h4>
 </p>
 
-<br><br>
+<br>
 
-<h1 align="center"> 👨🏻‍💻 Coding Profiles </h2>
+<h1 align="center"> 👨🏻‍💻 Coding Profiles </h1>
 <p align="center">
 <a href="https://leetcode.com/jaideep320/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black"></a>
 <a href="https://www.hackerrank.com/jaideep320"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white"></a></p>
@@ -32,11 +34,11 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 <img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/html.svg" alt="HTML" width="48" height="48"/>&nbsp
 <img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/vscode.png" alt="vscode" width="48" height="48"/>&nbsp;
 <img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/js.png" alt="HTML" width="48" height="48"/>&nbsp</p>
-<h1 align="center"> Frameworks 🖼️ </h2>
+<h1 align="center"> Frameworks 🖼️ </h1>
 <p align="center">
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /></p>
 
-<h2 align="center"> GitHub Overview </h2>
+<h1 align="center"> GitHub Overview </h1>
 
 [![Jaideep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Jaideep25-tech&theme=xcode)](https://github.com/Jaideep25-tech)
 
@@ -50,7 +52,7 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech)
 <br>
 
-<h2 align="center"> Let's connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
+<h1 align="center"> Let's connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
 <p align="center">
 <a href="https://jaideep25-tech.github.io/protfoliosite/"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/website.png" /></a> &nbsp;&nbsp
 <a href="mailto:jaideep320@gmail.com"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/mail.png" /></a> &nbsp;&nbsp
