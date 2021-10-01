@@ -4,7 +4,7 @@
 
 <h1 align="center"> <a href ="https://jaideep25-tech.github.io/protfoliosite/">Jaideep Singh</a></h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ravie&color=F7F7F7&size=21&center=true&vCenter=true&lines=Java+Coder;Android+Developer;Open+Source+Enthusiast;Competitive+Coder;Web+Developer)](https://git.io/typing-svg)
+![](https://readme-typing-svg.herokuapp.com?font=Ravie&color=F7F7F7&size=21&center=true&vCenter=true&lines=Java+Coder;Android+Developer;Open+Source+Enthusiast;Competitive+Coder;Web+Developer)
 
 <p align = "center"><img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/code.gif"/>
 
