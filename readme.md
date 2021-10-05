@@ -47,7 +47,7 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideep25-tech&theme=buefy&layout=compact" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaideep25-tech)](https://github.com/Jaideep25-tech)
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech)
 <br>
