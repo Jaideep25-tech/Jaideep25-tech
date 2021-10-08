@@ -50,6 +50,9 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaideep25-tech)](https://github.com/Jaideep25-tech)
+
 <br>
 
 <h1 align="center"> Let's connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
