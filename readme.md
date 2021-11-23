@@ -65,7 +65,7 @@ B.tech 2nd year in field of Computer Science with Specialization in Cyber Securt
 </p>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jaideep25-tech" alt="Jaideep25-tech" /></a> </p>
+<p align="Center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jaideep25-tech" alt="Jaideep25-tech" /></a> </p>
 <br>
 
 ![](https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/footer_github.png)
