@@ -40,7 +40,7 @@ Feel free to DM me on LinkedIn.
 </tr>
 <tr>
 <td style="text-align:center">Tools</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> </td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://user-images.githubusercontent.com/79747022/151806773-23bf5f4d-fa40-4272-8c5f-0ce31d8c8e40.jpg" width="40px"></td>
 </tr>
 <tr>
 <td style="text-align:center">Competitive coding</td>
