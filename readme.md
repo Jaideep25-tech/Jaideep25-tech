@@ -71,7 +71,6 @@ Feel free to DM me on LinkedIn.
 </tr>
 </table>
 <p align="center">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech"> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaideep25-tech&theme=tokyonight" />
 </p>
 
