@@ -3,7 +3,7 @@
 <h1 align="center"> <a href ="https://jaideep25-tech.github.io/protfoliosite/">Jaideep Singh</a> <img src="https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech"> </h1>
   
 
-A PHILONOIST | Program manager @Swoc'21 | Mentor @Woc2.0| Flutter developer | Android developer | Competitive Programmer
+A PHILONOIST | Program manager @SSoC'22 | Flutter Intern @1)THE edventure club 2) Unreal AI | Flutter developer | Android developer | Competitive Programmer
 
 <br/>
 
