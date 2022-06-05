@@ -79,7 +79,7 @@ Feel free to DM me on LinkedIn.
 <p align="Center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jaideep25-tech" alt="Jaideep25-tech" /></a> </p>
 <br>
 
-<h1 align="center"> Let's connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h1>
+<h1 align="center"> Let's connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70">  </h1>
 <p align="center">
 <a href="https://jaideep25-tech.github.io/protfoliosite/"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/website.png" /></a> &nbsp;&nbsp
 <a href="mailto:jaideep320@gmail.com"><img align="center" width="30px" src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/mail.png" /></a> &nbsp;&nbsp
