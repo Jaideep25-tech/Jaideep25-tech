@@ -1,6 +1,6 @@
 <p align = "center"><img src="https://github.com/Jaideep25-tech/Jaideep25-tech/blob/main/assests/1.gif" width=600px/></p>
 
-<h1 align="center"> <a href ="https://jaideep25-tech.github.io/protfoliosite/">Jaideep Singh</a> <img src="https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech"> </h1>
+<h1 align="center"> <a href ="https://www.jaideepsingh.in">Jaideep Singh</a> <img src="https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech"> </h1>
   
 
 A PHILONOIST | Program manager @SSoC'22 | Flutter Intern @1)THE edventure club 2) Unreal AI | Flutter developer | Android developer | Competitive Programmer
