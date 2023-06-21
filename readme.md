@@ -2,8 +2,8 @@
 
 <h1 align="center"> <a href ="https://www.jaideepsingh.in">Jaideep Singh</a> <img src="https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech"> </h1>
   
-
-A PHILONOIST | Program manager @SSoC'22 | Flutter Intern @1)THE edventure club 2) Unreal AI | Flutter developer | Android developer | Competitive Programmer
+#### Captivated by Flutter Development? Let Me Catapult Your Apps to New Heights!!!
+A PHILONOIST • Ex @Edventure Club • Ex @UnrelAI • Ex @Rjwada • Worked with 5+ StartUps • Freelancer • Flutter • Firebase • Mentor
 
 <br/>
 
@@ -14,9 +14,9 @@ A PHILONOIST | Program manager @SSoC'22 | Flutter Intern @1)THE edventure club 2
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/></p>
 
 ## About :sunglasses: 
-I am a 2nd year B.tech student Vellore Institute Of Technology,Bhopal. persuing b.tech in field of computer science with speacialization in field of cyber security and Digital Forensics. I am currently into flutter development, android developent with Java , open source advocate.
+A final year B.tech student at Vellore Institute Of Technology, Bhopal. pursuing a b.tech in the field of computer science with a specialization in the field of cyber security and Digital Forensics. I am deeply into developing cross-platform mobile application development with the help of Flutter, open source advocate.
 
-I would love to collaborate on projects.I’m also open to mentoring budding programmers and guiding them to become the best version of themselves.
+I would love to collaborate on projects. I’m also open to mentoring budding programmers and guiding them to become the best version of themselves.
 
 Feel free to DM me on LinkedIn.
 <h4 align="center">Show some &nbsp;❤️&nbsp; by starring  &nbsp;⭐&nbsp; some of the repositories!</h4>
