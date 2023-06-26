@@ -3,7 +3,7 @@
 <h1 align="center"> <a href ="https://www.jaideepsingh.in">Jaideep Singh</a> <img src="https://visitor-badge.laobi.icu/badge?page_id=Jaideep25-tech.Jaideep25-tech"> </h1>
   
 #### Captivated by Flutter Development? Let Me Catapult Your Apps to New Heights!!!
-A PHILONOIST • Ex @Edventure Club • Ex @UnrelAI • Ex @Rjwada • Worked with 5+ StartUps • Freelancer • Flutter • Firebase • Mentor
+A PHILONOIST • Developing Kniru 💥• Ex @Edventure Club • Ex @UnrelAI • Ex @Rjwada • Worked with 5+ StartUps • Freelancer • Flutter • Firebase • Mentor
 
 <br/>
 
